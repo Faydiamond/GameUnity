@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 0668d45cedfc4a44d9b0f2312d6eb236
+timeCreated: 1495489630
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0000_SK_impman
+    100002: 0001_SK_impman
+    100004: 0002_SK_impman
+    100006: b_beard
+    100008: b_head
+    100010: b_jaw
+    100012: b_L_clavicle
+    100014: b_L_finger_1_1
+    100016: b_L_finger_1_2
+    100018: b_L_finger_2_1
+    100020: b_L_finger_2_2
+    100022: b_L_finger_3_1
+    100024: b_L_finger_3_2
+    100026: b_L_foot
+    100028: b_L_hand
+    100030: b_L_leg_1
+    100032: b_L_leg_2
+    100034: b_L_lowerarm
+    100036: b_L_thumb_1
+    100038: b_L_thumb_2
+    100040: b_L_toe_1_1
+    100042: b_L_toe_1_2
+    100044: b_L_toe_2_1
+    100046: b_L_toe_2_2
+    100048: b_L_upperarm
+    100050: b_neck
+    100052: b_pelvis
+    100054: b_R_clavicle
+    100056: b_R_finger_1_1
+    100058: b_R_finger_1_2
+    100060: b_R_finger_2_1
+    100062: b_R_finger_2_2
+    100064: b_R_finger_3_1
+    100066: b_R_finger_3_2
+    100068: b_R_foot
+    100070: b_R_hand
+    100072: b_R_leg_1
+    100074: b_R_leg_2
+    100076: b_R_lowerarm
+    100078: b_R_thumb_1
+    100080: b_R_thumb_2
+    100082: b_R_toe_1_1
+    100084: b_R_toe_1_2
+    100086: b_R_toe_2_1
+    100088: b_R_toe_2_2
+    100090: b_R_upperarm
+    100092: b_spine_1
+    100094: b_spine_2
+    100096: CINEMA_4D_Editor
+    100098: //RootNode
+    100100: walk
+    400000: 0000_SK_impman
+    400002: 0001_SK_impman
+    400004: 0002_SK_impman
+    400006: b_beard
+    400008: b_head
+    400010: b_jaw
+    400012: b_L_clavicle
+    400014: b_L_finger_1_1
+    400016: b_L_finger_1_2
+    400018: b_L_finger_2_1
+    400020: b_L_finger_2_2
+    400022: b_L_finger_3_1
+    400024: b_L_finger_3_2
+    400026: b_L_foot
+    400028: b_L_hand
+    400030: b_L_leg_1
+    400032: b_L_leg_2
+    400034: b_L_lowerarm
+    400036: b_L_thumb_1
+    400038: b_L_thumb_2
+    400040: b_L_toe_1_1
+    400042: b_L_toe_1_2
+    400044: b_L_toe_2_1
+    400046: b_L_toe_2_2
+    400048: b_L_upperarm
+    400050: b_neck
+    400052: b_pelvis
+    400054: b_R_clavicle
+    400056: b_R_finger_1_1
+    400058: b_R_finger_1_2
+    400060: b_R_finger_2_1
+    400062: b_R_finger_2_2
+    400064: b_R_finger_3_1
+    400066: b_R_finger_3_2
+    400068: b_R_foot
+    400070: b_R_hand
+    400072: b_R_leg_1
+    400074: b_R_leg_2
+    400076: b_R_lowerarm
+    400078: b_R_thumb_1
+    400080: b_R_thumb_2
+    400082: b_R_toe_1_1
+    400084: b_R_toe_1_2
+    400086: b_R_toe_2_1
+    400088: b_R_toe_2_2
+    400090: b_R_upperarm
+    400092: b_spine_1
+    400094: b_spine_2
+    400096: CINEMA_4D_Editor
+    400098: //RootNode
+    400100: walk
+    4300000: 0000_SK_impman
+    4300002: 0001_SK_impman
+    4300004: 0002_SK_impman
+    7400000: Main
+    9500000: //RootNode
+    13700000: 0000_SK_impman
+    13700002: 0001_SK_impman
+    13700004: 0002_SK_impman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
